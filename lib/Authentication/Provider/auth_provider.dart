@@ -1,16 +1,16 @@
-import 'package:carsnexus_employee/Authentication/Model/forgot_response.dart';
-import 'package:carsnexus_employee/Authentication/Model/forgot_valid_response.dart';
-import 'package:carsnexus_employee/Authentication/Model/login_response.dart';
-import 'package:carsnexus_employee/Authentication/otp_verification_screen.dart';
-import 'package:carsnexus_employee/Authentication/set_new_password_screen.dart';
-import 'package:carsnexus_employee/Home/home_screen.dart';
-import 'package:carsnexus_employee/Network/api_header.dart';
-import 'package:carsnexus_employee/Network/api_services.dart';
-import 'package:carsnexus_employee/Network/base_model.dart';
-import 'package:carsnexus_employee/Network/server_error.dart';
-import 'package:carsnexus_employee/Utils/device_utils.dart';
-import 'package:carsnexus_employee/Utils/preferences_names.dart';
-import 'package:carsnexus_employee/Utils/shared_preferences.dart';
+import 'package:voyzo_employee/Authentication/Model/forgot_response.dart';
+import 'package:voyzo_employee/Authentication/Model/forgot_valid_response.dart';
+import 'package:voyzo_employee/Authentication/Model/login_response.dart';
+import 'package:voyzo_employee/Authentication/otp_verification_screen.dart';
+import 'package:voyzo_employee/Authentication/set_new_password_screen.dart';
+import 'package:voyzo_employee/Home/home_screen.dart';
+import 'package:voyzo_employee/Network/api_header.dart';
+import 'package:voyzo_employee/Network/api_services.dart';
+import 'package:voyzo_employee/Network/base_model.dart';
+import 'package:voyzo_employee/Network/server_error.dart';
+import 'package:voyzo_employee/Utils/device_utils.dart';
+import 'package:voyzo_employee/Utils/preferences_names.dart';
+import 'package:voyzo_employee/Utils/shared_preferences.dart';
 import 'package:flutter/material.dart';
 
 class AuthProvider extends ChangeNotifier {

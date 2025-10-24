@@ -1,8 +1,8 @@
-import 'package:carsnexus_employee/Authentication/Provider/auth_provider.dart';
-import 'package:carsnexus_employee/Localization/localization_constant.dart';
-import 'package:carsnexus_employee/Theme/colors.dart';
-import 'package:carsnexus_employee/Theme/theme.dart';
-import 'package:carsnexus_employee/Utils/lang_const.dart';
+import 'package:voyzo_employee/Authentication/Provider/auth_provider.dart';
+import 'package:voyzo_employee/Localization/localization_constant.dart';
+import 'package:voyzo_employee/Theme/colors.dart';
+import 'package:voyzo_employee/Theme/theme.dart';
+import 'package:voyzo_employee/Utils/lang_const.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

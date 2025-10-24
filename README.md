@@ -1,3 +1,3 @@
-Cars Nexus Employee Flutter App
+Voyzo Employee Flutter App
 
 Learn More About Flutter at 👉🏻 https://docs.flutter.dev/

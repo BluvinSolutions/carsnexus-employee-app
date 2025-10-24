@@ -1,8 +1,8 @@
 import 'dart:io';
-import 'package:carsnexus_employee/Network/api_connection_test_response_model.dart';
-import 'package:carsnexus_employee/Network/api_header.dart';
-import 'package:carsnexus_employee/Network/api_services.dart';
-import 'package:carsnexus_employee/Network/apis.dart';
+import 'package:voyzo_employee/Network/api_connection_test_response_model.dart';
+import 'package:voyzo_employee/Network/api_header.dart';
+import 'package:voyzo_employee/Network/api_services.dart';
+import 'package:voyzo_employee/Network/apis.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

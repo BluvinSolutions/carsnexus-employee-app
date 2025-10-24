@@ -1,8 +1,8 @@
-import 'package:carsnexus_employee/Home/Model/home_response.dart';
-import 'package:carsnexus_employee/Network/api_header.dart';
-import 'package:carsnexus_employee/Network/api_services.dart';
-import 'package:carsnexus_employee/Network/base_model.dart';
-import 'package:carsnexus_employee/Network/server_error.dart';
+import 'package:voyzo_employee/Home/Model/home_response.dart';
+import 'package:voyzo_employee/Network/api_header.dart';
+import 'package:voyzo_employee/Network/api_services.dart';
+import 'package:voyzo_employee/Network/base_model.dart';
+import 'package:voyzo_employee/Network/server_error.dart';
 import 'package:flutter/material.dart';
 
 class HomeProvider extends ChangeNotifier {

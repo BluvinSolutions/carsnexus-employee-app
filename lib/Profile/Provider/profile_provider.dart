@@ -1,15 +1,15 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:carsnexus_employee/Network/api_header.dart';
-import 'package:carsnexus_employee/Network/api_services.dart';
-import 'package:carsnexus_employee/Network/base_model.dart';
-import 'package:carsnexus_employee/Network/server_error.dart';
-import 'package:carsnexus_employee/Profile/Model/change_password_response.dart';
-import 'package:carsnexus_employee/Profile/Model/profile_response.dart';
-import 'package:carsnexus_employee/Utils/device_utils.dart';
-import 'package:carsnexus_employee/Utils/preferences_names.dart';
-import 'package:carsnexus_employee/Utils/shared_preferences.dart';
+import 'package:voyzo_employee/Network/api_header.dart';
+import 'package:voyzo_employee/Network/api_services.dart';
+import 'package:voyzo_employee/Network/base_model.dart';
+import 'package:voyzo_employee/Network/server_error.dart';
+import 'package:voyzo_employee/Profile/Model/change_password_response.dart';
+import 'package:voyzo_employee/Profile/Model/profile_response.dart';
+import 'package:voyzo_employee/Utils/device_utils.dart';
+import 'package:voyzo_employee/Utils/preferences_names.dart';
+import 'package:voyzo_employee/Utils/shared_preferences.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';

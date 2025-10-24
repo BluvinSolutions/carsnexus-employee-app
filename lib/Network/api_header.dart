@@ -1,5 +1,5 @@
-import 'package:carsnexus_employee/Utils/preferences_names.dart';
-import 'package:carsnexus_employee/Utils/shared_preferences.dart';
+import 'package:voyzo_employee/Utils/preferences_names.dart';
+import 'package:voyzo_employee/Utils/shared_preferences.dart';
 import 'package:dio/dio.dart';
 
 class ApiHeader {

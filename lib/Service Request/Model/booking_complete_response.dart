@@ -1,4 +1,4 @@
-import 'package:carsnexus_employee/Service%20Request/Model/service_request_response.dart';
+import 'package:voyzo_employee/Service%20Request/Model/service_request_response.dart';
 
 class BookingCompleteResponse {
   BookingCompleteResponse({
